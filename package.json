@@ -1,0 +1,45 @@
+{
+  "name": "meu-eu-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },mauriliowellingtom-create
+meu-eu-backend
+
+Type / to search
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+meu-eu-backend
+/
+package.json
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "stripe": "^14.19.0",
+    "@aws-sdk/client-s3": "^3.525.0"
+  }
+}
